@@ -1,10 +1,6 @@
 # STRAF: Structure-Aware Retrieval-Augmented Time Series Forecasting
 
 
-> Built upon the [Time-Series-Library](https://github.com/thuml/Time-Series-Library).
-
----
-
 ## Overview
 
 STRAF combines a direct linear predictor with multi-view retrieval augmentation, fused via a two-stage attention mechanism:
