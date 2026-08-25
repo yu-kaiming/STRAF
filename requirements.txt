@@ -1,0 +1,15 @@
+# Core dependencies
+torch>=1.10.0
+numpy>=1.24.0
+pandas>=1.5.0
+scikit-learn>=1.0.0
+tqdm>=4.65.0
+
+# Data loading
+sktime>=0.16.0
+
+# Optional: advanced augmentation
+# tspump>=0.1.0
+
+# Optional: visualization
+matplotlib>=3.5.0
